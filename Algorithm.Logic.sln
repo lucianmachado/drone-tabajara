@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm.Logic", "Algorith
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm.Logic.Tests", "Algorithm.Logic.Tests\Algorithm.Logic.Tests.csproj", "{A6D3D5FD-8D25-4C0C-8F13-7E327D7355D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm.DroneTests", "..\Algorithm.LogicTests\Algorithm.DroneTests.csproj", "{244B9323-676E-4F45-90A1-96576C81D9C2}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{A6D3D5FD-8D25-4C0C-8F13-7E327D7355D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6D3D5FD-8D25-4C0C-8F13-7E327D7355D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6D3D5FD-8D25-4C0C-8F13-7E327D7355D9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{244B9323-676E-4F45-90A1-96576C81D9C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{244B9323-676E-4F45-90A1-96576C81D9C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{244B9323-676E-4F45-90A1-96576C81D9C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{244B9323-676E-4F45-90A1-96576C81D9C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
