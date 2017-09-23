@@ -11,13 +11,7 @@ namespace Algorithm.Logic.Tests
         {
             Assert.AreEqual("(5, 5)", Program.Evaluate("NNNNNLLLLL"));
         }
-        [TestMethod]
-        public void GetCartesian_00()
-        {
-            Drone dr = new Logic.Drone;
 
-            Assert.AreEqual("(5, 5)", Program.Evaluate("NNNNNLLLLL"));
-        }
         [TestMethod]
         public void Input_NLNLNLNLNL()
         {
